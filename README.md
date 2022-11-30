@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @oscarsaraza
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning SveltKit and I ❤ it.
