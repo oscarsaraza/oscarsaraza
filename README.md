@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @oscarsaraza
+- 👋 Hi, I’m Oscar Saraza (@oscarsaraza)
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning SvelteKit and I ❤ it.
+- 💻️ Mainly using React, Typescript, Next.js, MongoDB, TailwindCSS.
+- 🌱 In ❤ with Svelte.
